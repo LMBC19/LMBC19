@@ -3,7 +3,7 @@
 ##
 
 - 🔭 I’m currently working on Full Stack
-- 🌱 I’m currently learning TypeScript, NodeJs. Taking my master's degree in Cybersecurity and Computer Forensics. 
+- 🌱 I’m currently learning TypeScript, NextJs. Taking my master's degree in Cybersecurity and Computer Forensics. 
 - ⚡ Fun fact: I'm on the IPL Formula Student team.
 ##
 
