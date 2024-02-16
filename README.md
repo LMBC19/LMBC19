@@ -2,9 +2,8 @@
 ### Hi there 👋 I'm Luís Costa
 ##
 
-- 🔭 I’m currently working on Full Stack
-- 🌱 I’m currently learning TypeScript, NextJs. Taking my master's degree in Cybersecurity and Computer Forensics. 
-- ⚡ Fun fact: I'm on the IPL Formula Student team.
+##- 🔭 I’m currently working on Full Stack
+- 🌱 I’m currently learning TypeScript, NextJs 14. Taking my master's degree in Cybersecurity and Computer Forensics. 
 ##
 
 <div>
