@@ -3,7 +3,7 @@
 ##
 
 - 🔭 I’m currently finishing my Master's Degree
-- 🌱 I’m currently learning TypeScript, NextJs 14. Taking my master's degree in Cybersecurity and Computer Forensics. 
+- 🌱 Taking my master's degree in Cybersecurity and Computer Forensics. 
 ##
 
 <div>
